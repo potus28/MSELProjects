@@ -1,3 +1,9 @@
 simulations
 simulations_tmc_uc-eos_alpha
 simulations_tmc_uc-eos_beta
+simulations-molecule-bo4-minimization
+simulations-molecule-fal-minimization
+simulations-molecule-fol-minimization
+simulations-molecule-mf-minimization
+simulations-molecule-thfol-minimization
+
