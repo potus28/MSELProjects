@@ -1,0 +1,12 @@
+MODEL     1
+ATOM      1    N MOL     1       0.000   0.000   0.116  1.00  0.00           N  
+ATOM      2    H MOL     1      -0.005   0.937  -0.267  1.00  0.00           H  
+ATOM      3    H MOL     1       0.816  -0.462  -0.265  1.00  0.00           H  
+ATOM      4    H MOL     1      -0.808  -0.475  -0.266  1.00  0.00           H  
+ATOM      5    M MOL     1       0.000   0.000   0.036  1.00  0.00           M  
+ENDMDL
+CONECT    1    2    3    4    5
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1
