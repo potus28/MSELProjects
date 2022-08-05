@@ -1,0 +1,171 @@
+atomtypes
+7
+
+begin atom-atomtype
+1 N
+2 CA
+3 CB
+4 CC
+5 CB
+6 CA
+7 HA
+8 HB
+9 HC
+10 HB
+11 HA
+end atom-atomtype
+
+vdwtype LJ
+dihedraltype none
+
+nonbonded
+N
+Sigma 3.2 
+Epsilon 57.0
+atom_type_charge -0.416
+
+nonbonded
+CA
+Sigma 3.6
+Epsilon 30.7
+atom_type_charge 0.093
+
+nonbonded
+CB
+Sigma 3.6
+Epsilon 20.7
+atom_type_charge -0.101
+
+nonbonded
+CC
+Sigma 3.6
+Epsilon 30.7
+atom_type_charge -0.037
+
+nonbonded
+HA
+Sigma 2.36
+Epsilon 25.45
+atom_type_charge 0.076
+
+nonbonded
+HB
+Sigma 2.36
+Epsilon 25.45
+atom_type_charge 0.105
+
+nonbonded
+HC
+Sigma 2.36
+Epsilon 25.45
+atom_type_charge 0.107
+
+bonds
+N CA
+Length 1.33 
+Constant fixed 
+
+bonds
+CA HA
+Length 1.08
+Constant fixed 
+
+bonds
+CA CB
+Length 1.392
+Constant fixed 
+
+bonds
+CB CC
+Length 1.392
+Constant fixed 
+
+bonds
+CB HB
+Length 1.08
+Constant fixed 
+
+bonds
+CC HC
+Length 1.08
+Constant fixed 
+
+angles
+CA N CA
+Angle 117.3
+Constant fixed 
+
+angles
+N CA HA
+Angle 116.1
+Constant fixed 
+
+angles
+N CA CB
+Angle 123.6
+Constant fixed 
+
+angles
+HA CA CB
+Angle 120.3 
+Constant fixed 
+
+angles
+CA CB CC
+Angle 118.5
+Constant fixed 
+
+angles
+CA CB HB
+Angle 120.3
+Constant fixed 
+
+angles
+CC CB HB
+Angle 121.3
+Constant fixed 
+
+angles
+CB CC CB
+Angle 118.5
+Constant fixed 
+
+angles
+CB CC HC
+Angle 120.7
+Constant fixed 
+
+charge
+1 
+
+charge
+2 
+
+charge
+3 
+
+charge
+4 
+
+charge
+5 
+
+charge
+6 
+
+charge
+7 
+
+charge
+8 
+
+charge
+9 
+
+charge
+10 
+
+charge
+11 
+
+end

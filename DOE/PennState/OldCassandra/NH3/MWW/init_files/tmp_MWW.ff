@@ -1,0 +1,6934 @@
+atomtypes
+2
+
+begin atom-atomtype
+1 O
+2 O
+3 O
+4 O
+5 O
+6 O
+7 O
+8 O
+9 O
+10 O
+11 O
+12 O
+13 O
+14 O
+15 O
+16 O
+17 O
+18 O
+19 O
+20 O
+21 O
+22 O
+23 O
+24 O
+25 O
+26 O
+27 O
+28 O
+29 O
+30 O
+31 O
+32 O
+33 O
+34 O
+35 O
+36 O
+37 O
+38 O
+39 O
+40 O
+41 O
+42 O
+43 O
+44 O
+45 O
+46 O
+47 O
+48 O
+49 O
+50 O
+51 O
+52 O
+53 O
+54 O
+55 O
+56 O
+57 O
+58 O
+59 O
+60 O
+61 O
+62 O
+63 O
+64 O
+65 O
+66 O
+67 O
+68 O
+69 O
+70 O
+71 O
+72 O
+73 O
+74 O
+75 O
+76 O
+77 O
+78 O
+79 O
+80 O
+81 O
+82 O
+83 O
+84 O
+85 O
+86 O
+87 O
+88 O
+89 O
+90 O
+91 O
+92 O
+93 O
+94 O
+95 O
+96 O
+97 O
+98 O
+99 O
+100 O
+101 O
+102 O
+103 O
+104 O
+105 O
+106 O
+107 O
+108 O
+109 O
+110 O
+111 O
+112 O
+113 O
+114 O
+115 O
+116 O
+117 O
+118 O
+119 O
+120 O
+121 O
+122 O
+123 O
+124 O
+125 O
+126 O
+127 O
+128 O
+129 O
+130 O
+131 O
+132 O
+133 O
+134 O
+135 O
+136 O
+137 O
+138 O
+139 O
+140 O
+141 O
+142 O
+143 O
+144 O
+145 Si
+146 Si
+147 Si
+148 Si
+149 Si
+150 Si
+151 Si
+152 Si
+153 Si
+154 Si
+155 Si
+156 Si
+157 Si
+158 Si
+159 Si
+160 Si
+161 Si
+162 Si
+163 Si
+164 Si
+165 Si
+166 Si
+167 Si
+168 Si
+169 Si
+170 Si
+171 Si
+172 Si
+173 Si
+174 Si
+175 Si
+176 Si
+177 Si
+178 Si
+179 Si
+180 Si
+181 Si
+182 Si
+183 Si
+184 Si
+185 Si
+186 Si
+187 Si
+188 Si
+189 Si
+190 Si
+191 Si
+192 Si
+193 Si
+194 Si
+195 Si
+196 Si
+197 Si
+198 Si
+199 Si
+200 Si
+201 Si
+202 Si
+203 Si
+204 Si
+205 Si
+206 Si
+207 Si
+208 Si
+209 Si
+210 Si
+211 Si
+212 Si
+213 Si
+214 Si
+215 Si
+216 Si
+217 O
+218 O
+219 O
+220 O
+221 O
+222 O
+223 O
+224 O
+225 O
+226 O
+227 O
+228 O
+229 O
+230 O
+231 O
+232 O
+233 O
+234 O
+235 O
+236 O
+237 O
+238 O
+239 O
+240 O
+241 O
+242 O
+243 O
+244 O
+245 O
+246 O
+247 O
+248 O
+249 O
+250 O
+251 O
+252 O
+253 O
+254 O
+255 O
+256 O
+257 O
+258 O
+259 O
+260 O
+261 O
+262 O
+263 O
+264 O
+265 O
+266 O
+267 O
+268 O
+269 O
+270 O
+271 O
+272 O
+273 O
+274 O
+275 O
+276 O
+277 O
+278 O
+279 O
+280 O
+281 O
+282 O
+283 O
+284 O
+285 O
+286 O
+287 O
+288 O
+289 O
+290 O
+291 O
+292 O
+293 O
+294 O
+295 O
+296 O
+297 O
+298 O
+299 O
+300 O
+301 O
+302 O
+303 O
+304 O
+305 O
+306 O
+307 O
+308 O
+309 O
+310 O
+311 O
+312 O
+313 O
+314 O
+315 O
+316 O
+317 O
+318 O
+319 O
+320 O
+321 O
+322 O
+323 O
+324 O
+325 O
+326 O
+327 O
+328 O
+329 O
+330 O
+331 O
+332 O
+333 O
+334 O
+335 O
+336 O
+337 O
+338 O
+339 O
+340 O
+341 O
+342 O
+343 O
+344 O
+345 O
+346 O
+347 O
+348 O
+349 O
+350 O
+351 O
+352 O
+353 O
+354 O
+355 O
+356 O
+357 O
+358 O
+359 O
+360 O
+361 Si
+362 Si
+363 Si
+364 Si
+365 Si
+366 Si
+367 Si
+368 Si
+369 Si
+370 Si
+371 Si
+372 Si
+373 Si
+374 Si
+375 Si
+376 Si
+377 Si
+378 Si
+379 Si
+380 Si
+381 Si
+382 Si
+383 Si
+384 Si
+385 Si
+386 Si
+387 Si
+388 Si
+389 Si
+390 Si
+391 Si
+392 Si
+393 Si
+394 Si
+395 Si
+396 Si
+397 Si
+398 Si
+399 Si
+400 Si
+401 Si
+402 Si
+403 Si
+404 Si
+405 Si
+406 Si
+407 Si
+408 Si
+409 Si
+410 Si
+411 Si
+412 Si
+413 Si
+414 Si
+415 Si
+416 Si
+417 Si
+418 Si
+419 Si
+420 Si
+421 Si
+422 Si
+423 Si
+424 Si
+425 Si
+426 Si
+427 Si
+428 Si
+429 Si
+430 Si
+431 Si
+432 Si
+433 O
+434 O
+435 O
+436 O
+437 O
+438 O
+439 O
+440 O
+441 O
+442 O
+443 O
+444 O
+445 O
+446 O
+447 O
+448 O
+449 O
+450 O
+451 O
+452 O
+453 O
+454 O
+455 O
+456 O
+457 O
+458 O
+459 O
+460 O
+461 O
+462 O
+463 O
+464 O
+465 O
+466 O
+467 O
+468 O
+469 O
+470 O
+471 O
+472 O
+473 O
+474 O
+475 O
+476 O
+477 O
+478 O
+479 O
+480 O
+481 O
+482 O
+483 O
+484 O
+485 O
+486 O
+487 O
+488 O
+489 O
+490 O
+491 O
+492 O
+493 O
+494 O
+495 O
+496 O
+497 O
+498 O
+499 O
+500 O
+501 O
+502 O
+503 O
+504 O
+505 O
+506 O
+507 O
+508 O
+509 O
+510 O
+511 O
+512 O
+513 O
+514 O
+515 O
+516 O
+517 O
+518 O
+519 O
+520 O
+521 O
+522 O
+523 O
+524 O
+525 O
+526 O
+527 O
+528 O
+529 O
+530 O
+531 O
+532 O
+533 O
+534 O
+535 O
+536 O
+537 O
+538 O
+539 O
+540 O
+541 O
+542 O
+543 O
+544 O
+545 O
+546 O
+547 O
+548 O
+549 O
+550 O
+551 O
+552 O
+553 O
+554 O
+555 O
+556 O
+557 O
+558 O
+559 O
+560 O
+561 O
+562 O
+563 O
+564 O
+565 O
+566 O
+567 O
+568 O
+569 O
+570 O
+571 O
+572 O
+573 O
+574 O
+575 O
+576 O
+577 Si
+578 Si
+579 Si
+580 Si
+581 Si
+582 Si
+583 Si
+584 Si
+585 Si
+586 Si
+587 Si
+588 Si
+589 Si
+590 Si
+591 Si
+592 Si
+593 Si
+594 Si
+595 Si
+596 Si
+597 Si
+598 Si
+599 Si
+600 Si
+601 Si
+602 Si
+603 Si
+604 Si
+605 Si
+606 Si
+607 Si
+608 Si
+609 Si
+610 Si
+611 Si
+612 Si
+613 Si
+614 Si
+615 Si
+616 Si
+617 Si
+618 Si
+619 Si
+620 Si
+621 Si
+622 Si
+623 Si
+624 Si
+625 Si
+626 Si
+627 Si
+628 Si
+629 Si
+630 Si
+631 Si
+632 Si
+633 Si
+634 Si
+635 Si
+636 Si
+637 Si
+638 Si
+639 Si
+640 Si
+641 Si
+642 Si
+643 Si
+644 Si
+645 Si
+646 Si
+647 Si
+648 Si
+649 O
+650 O
+651 O
+652 O
+653 O
+654 O
+655 O
+656 O
+657 O
+658 O
+659 O
+660 O
+661 O
+662 O
+663 O
+664 O
+665 O
+666 O
+667 O
+668 O
+669 O
+670 O
+671 O
+672 O
+673 O
+674 O
+675 O
+676 O
+677 O
+678 O
+679 O
+680 O
+681 O
+682 O
+683 O
+684 O
+685 O
+686 O
+687 O
+688 O
+689 O
+690 O
+691 O
+692 O
+693 O
+694 O
+695 O
+696 O
+697 O
+698 O
+699 O
+700 O
+701 O
+702 O
+703 O
+704 O
+705 O
+706 O
+707 O
+708 O
+709 O
+710 O
+711 O
+712 O
+713 O
+714 O
+715 O
+716 O
+717 O
+718 O
+719 O
+720 O
+721 O
+722 O
+723 O
+724 O
+725 O
+726 O
+727 O
+728 O
+729 O
+730 O
+731 O
+732 O
+733 O
+734 O
+735 O
+736 O
+737 O
+738 O
+739 O
+740 O
+741 O
+742 O
+743 O
+744 O
+745 O
+746 O
+747 O
+748 O
+749 O
+750 O
+751 O
+752 O
+753 O
+754 O
+755 O
+756 O
+757 O
+758 O
+759 O
+760 O
+761 O
+762 O
+763 O
+764 O
+765 O
+766 O
+767 O
+768 O
+769 O
+770 O
+771 O
+772 O
+773 O
+774 O
+775 O
+776 O
+777 O
+778 O
+779 O
+780 O
+781 O
+782 O
+783 O
+784 O
+785 O
+786 O
+787 O
+788 O
+789 O
+790 O
+791 O
+792 O
+793 Si
+794 Si
+795 Si
+796 Si
+797 Si
+798 Si
+799 Si
+800 Si
+801 Si
+802 Si
+803 Si
+804 Si
+805 Si
+806 Si
+807 Si
+808 Si
+809 Si
+810 Si
+811 Si
+812 Si
+813 Si
+814 Si
+815 Si
+816 Si
+817 Si
+818 Si
+819 Si
+820 Si
+821 Si
+822 Si
+823 Si
+824 Si
+825 Si
+826 Si
+827 Si
+828 Si
+829 Si
+830 Si
+831 Si
+832 Si
+833 Si
+834 Si
+835 Si
+836 Si
+837 Si
+838 Si
+839 Si
+840 Si
+841 Si
+842 Si
+843 Si
+844 Si
+845 Si
+846 Si
+847 Si
+848 Si
+849 Si
+850 Si
+851 Si
+852 Si
+853 Si
+854 Si
+855 Si
+856 Si
+857 Si
+858 Si
+859 Si
+860 Si
+861 Si
+862 Si
+863 Si
+864 Si
+865 O
+866 O
+867 O
+868 O
+869 O
+870 O
+871 O
+872 O
+873 O
+874 O
+875 O
+876 O
+877 O
+878 O
+879 O
+880 O
+881 O
+882 O
+883 O
+884 O
+885 O
+886 O
+887 O
+888 O
+889 O
+890 O
+891 O
+892 O
+893 O
+894 O
+895 O
+896 O
+897 O
+898 O
+899 O
+900 O
+901 O
+902 O
+903 O
+904 O
+905 O
+906 O
+907 O
+908 O
+909 O
+910 O
+911 O
+912 O
+913 O
+914 O
+915 O
+916 O
+917 O
+918 O
+919 O
+920 O
+921 O
+922 O
+923 O
+924 O
+925 O
+926 O
+927 O
+928 O
+929 O
+930 O
+931 O
+932 O
+933 O
+934 O
+935 O
+936 O
+937 O
+938 O
+939 O
+940 O
+941 O
+942 O
+943 O
+944 O
+945 O
+946 O
+947 O
+948 O
+949 O
+950 O
+951 O
+952 O
+953 O
+954 O
+955 O
+956 O
+957 O
+958 O
+959 O
+960 O
+961 O
+962 O
+963 O
+964 O
+965 O
+966 O
+967 O
+968 O
+969 O
+970 O
+971 O
+972 O
+973 O
+974 O
+975 O
+976 O
+977 O
+978 O
+979 O
+980 O
+981 O
+982 O
+983 O
+984 O
+985 O
+986 O
+987 O
+988 O
+989 O
+990 O
+991 O
+992 O
+993 O
+994 O
+995 O
+996 O
+997 O
+998 O
+999 O
+1000 O
+1001 O
+1002 O
+1003 O
+1004 O
+1005 O
+1006 O
+1007 O
+1008 O
+1009 Si
+1010 Si
+1011 Si
+1012 Si
+1013 Si
+1014 Si
+1015 Si
+1016 Si
+1017 Si
+1018 Si
+1019 Si
+1020 Si
+1021 Si
+1022 Si
+1023 Si
+1024 Si
+1025 Si
+1026 Si
+1027 Si
+1028 Si
+1029 Si
+1030 Si
+1031 Si
+1032 Si
+1033 Si
+1034 Si
+1035 Si
+1036 Si
+1037 Si
+1038 Si
+1039 Si
+1040 Si
+1041 Si
+1042 Si
+1043 Si
+1044 Si
+1045 Si
+1046 Si
+1047 Si
+1048 Si
+1049 Si
+1050 Si
+1051 Si
+1052 Si
+1053 Si
+1054 Si
+1055 Si
+1056 Si
+1057 Si
+1058 Si
+1059 Si
+1060 Si
+1061 Si
+1062 Si
+1063 Si
+1064 Si
+1065 Si
+1066 Si
+1067 Si
+1068 Si
+1069 Si
+1070 Si
+1071 Si
+1072 Si
+1073 Si
+1074 Si
+1075 Si
+1076 Si
+1077 Si
+1078 Si
+1079 Si
+1080 Si
+1081 O
+1082 O
+1083 O
+1084 O
+1085 O
+1086 O
+1087 O
+1088 O
+1089 O
+1090 O
+1091 O
+1092 O
+1093 O
+1094 O
+1095 O
+1096 O
+1097 O
+1098 O
+1099 O
+1100 O
+1101 O
+1102 O
+1103 O
+1104 O
+1105 O
+1106 O
+1107 O
+1108 O
+1109 O
+1110 O
+1111 O
+1112 O
+1113 O
+1114 O
+1115 O
+1116 O
+1117 O
+1118 O
+1119 O
+1120 O
+1121 O
+1122 O
+1123 O
+1124 O
+1125 O
+1126 O
+1127 O
+1128 O
+1129 O
+1130 O
+1131 O
+1132 O
+1133 O
+1134 O
+1135 O
+1136 O
+1137 O
+1138 O
+1139 O
+1140 O
+1141 O
+1142 O
+1143 O
+1144 O
+1145 O
+1146 O
+1147 O
+1148 O
+1149 O
+1150 O
+1151 O
+1152 O
+1153 O
+1154 O
+1155 O
+1156 O
+1157 O
+1158 O
+1159 O
+1160 O
+1161 O
+1162 O
+1163 O
+1164 O
+1165 O
+1166 O
+1167 O
+1168 O
+1169 O
+1170 O
+1171 O
+1172 O
+1173 O
+1174 O
+1175 O
+1176 O
+1177 O
+1178 O
+1179 O
+1180 O
+1181 O
+1182 O
+1183 O
+1184 O
+1185 O
+1186 O
+1187 O
+1188 O
+1189 O
+1190 O
+1191 O
+1192 O
+1193 O
+1194 O
+1195 O
+1196 O
+1197 O
+1198 O
+1199 O
+1200 O
+1201 O
+1202 O
+1203 O
+1204 O
+1205 O
+1206 O
+1207 O
+1208 O
+1209 O
+1210 O
+1211 O
+1212 O
+1213 O
+1214 O
+1215 O
+1216 O
+1217 O
+1218 O
+1219 O
+1220 O
+1221 O
+1222 O
+1223 O
+1224 O
+1225 Si
+1226 Si
+1227 Si
+1228 Si
+1229 Si
+1230 Si
+1231 Si
+1232 Si
+1233 Si
+1234 Si
+1235 Si
+1236 Si
+1237 Si
+1238 Si
+1239 Si
+1240 Si
+1241 Si
+1242 Si
+1243 Si
+1244 Si
+1245 Si
+1246 Si
+1247 Si
+1248 Si
+1249 Si
+1250 Si
+1251 Si
+1252 Si
+1253 Si
+1254 Si
+1255 Si
+1256 Si
+1257 Si
+1258 Si
+1259 Si
+1260 Si
+1261 Si
+1262 Si
+1263 Si
+1264 Si
+1265 Si
+1266 Si
+1267 Si
+1268 Si
+1269 Si
+1270 Si
+1271 Si
+1272 Si
+1273 Si
+1274 Si
+1275 Si
+1276 Si
+1277 Si
+1278 Si
+1279 Si
+1280 Si
+1281 Si
+1282 Si
+1283 Si
+1284 Si
+1285 Si
+1286 Si
+1287 Si
+1288 Si
+1289 Si
+1290 Si
+1291 Si
+1292 Si
+1293 Si
+1294 Si
+1295 Si
+1296 Si
+1297 O
+1298 O
+1299 O
+1300 O
+1301 O
+1302 O
+1303 O
+1304 O
+1305 O
+1306 O
+1307 O
+1308 O
+1309 O
+1310 O
+1311 O
+1312 O
+1313 O
+1314 O
+1315 O
+1316 O
+1317 O
+1318 O
+1319 O
+1320 O
+1321 O
+1322 O
+1323 O
+1324 O
+1325 O
+1326 O
+1327 O
+1328 O
+1329 O
+1330 O
+1331 O
+1332 O
+1333 O
+1334 O
+1335 O
+1336 O
+1337 O
+1338 O
+1339 O
+1340 O
+1341 O
+1342 O
+1343 O
+1344 O
+1345 O
+1346 O
+1347 O
+1348 O
+1349 O
+1350 O
+1351 O
+1352 O
+1353 O
+1354 O
+1355 O
+1356 O
+1357 O
+1358 O
+1359 O
+1360 O
+1361 O
+1362 O
+1363 O
+1364 O
+1365 O
+1366 O
+1367 O
+1368 O
+1369 O
+1370 O
+1371 O
+1372 O
+1373 O
+1374 O
+1375 O
+1376 O
+1377 O
+1378 O
+1379 O
+1380 O
+1381 O
+1382 O
+1383 O
+1384 O
+1385 O
+1386 O
+1387 O
+1388 O
+1389 O
+1390 O
+1391 O
+1392 O
+1393 O
+1394 O
+1395 O
+1396 O
+1397 O
+1398 O
+1399 O
+1400 O
+1401 O
+1402 O
+1403 O
+1404 O
+1405 O
+1406 O
+1407 O
+1408 O
+1409 O
+1410 O
+1411 O
+1412 O
+1413 O
+1414 O
+1415 O
+1416 O
+1417 O
+1418 O
+1419 O
+1420 O
+1421 O
+1422 O
+1423 O
+1424 O
+1425 O
+1426 O
+1427 O
+1428 O
+1429 O
+1430 O
+1431 O
+1432 O
+1433 O
+1434 O
+1435 O
+1436 O
+1437 O
+1438 O
+1439 O
+1440 O
+1441 Si
+1442 Si
+1443 Si
+1444 Si
+1445 Si
+1446 Si
+1447 Si
+1448 Si
+1449 Si
+1450 Si
+1451 Si
+1452 Si
+1453 Si
+1454 Si
+1455 Si
+1456 Si
+1457 Si
+1458 Si
+1459 Si
+1460 Si
+1461 Si
+1462 Si
+1463 Si
+1464 Si
+1465 Si
+1466 Si
+1467 Si
+1468 Si
+1469 Si
+1470 Si
+1471 Si
+1472 Si
+1473 Si
+1474 Si
+1475 Si
+1476 Si
+1477 Si
+1478 Si
+1479 Si
+1480 Si
+1481 Si
+1482 Si
+1483 Si
+1484 Si
+1485 Si
+1486 Si
+1487 Si
+1488 Si
+1489 Si
+1490 Si
+1491 Si
+1492 Si
+1493 Si
+1494 Si
+1495 Si
+1496 Si
+1497 Si
+1498 Si
+1499 Si
+1500 Si
+1501 Si
+1502 Si
+1503 Si
+1504 Si
+1505 Si
+1506 Si
+1507 Si
+1508 Si
+1509 Si
+1510 Si
+1511 Si
+1512 Si
+1513 O
+1514 O
+1515 O
+1516 O
+1517 O
+1518 O
+1519 O
+1520 O
+1521 O
+1522 O
+1523 O
+1524 O
+1525 O
+1526 O
+1527 O
+1528 O
+1529 O
+1530 O
+1531 O
+1532 O
+1533 O
+1534 O
+1535 O
+1536 O
+1537 O
+1538 O
+1539 O
+1540 O
+1541 O
+1542 O
+1543 O
+1544 O
+1545 O
+1546 O
+1547 O
+1548 O
+1549 O
+1550 O
+1551 O
+1552 O
+1553 O
+1554 O
+1555 O
+1556 O
+1557 O
+1558 O
+1559 O
+1560 O
+1561 O
+1562 O
+1563 O
+1564 O
+1565 O
+1566 O
+1567 O
+1568 O
+1569 O
+1570 O
+1571 O
+1572 O
+1573 O
+1574 O
+1575 O
+1576 O
+1577 O
+1578 O
+1579 O
+1580 O
+1581 O
+1582 O
+1583 O
+1584 O
+1585 O
+1586 O
+1587 O
+1588 O
+1589 O
+1590 O
+1591 O
+1592 O
+1593 O
+1594 O
+1595 O
+1596 O
+1597 O
+1598 O
+1599 O
+1600 O
+1601 O
+1602 O
+1603 O
+1604 O
+1605 O
+1606 O
+1607 O
+1608 O
+1609 O
+1610 O
+1611 O
+1612 O
+1613 O
+1614 O
+1615 O
+1616 O
+1617 O
+1618 O
+1619 O
+1620 O
+1621 O
+1622 O
+1623 O
+1624 O
+1625 O
+1626 O
+1627 O
+1628 O
+1629 O
+1630 O
+1631 O
+1632 O
+1633 O
+1634 O
+1635 O
+1636 O
+1637 O
+1638 O
+1639 O
+1640 O
+1641 O
+1642 O
+1643 O
+1644 O
+1645 O
+1646 O
+1647 O
+1648 O
+1649 O
+1650 O
+1651 O
+1652 O
+1653 O
+1654 O
+1655 O
+1656 O
+1657 Si
+1658 Si
+1659 Si
+1660 Si
+1661 Si
+1662 Si
+1663 Si
+1664 Si
+1665 Si
+1666 Si
+1667 Si
+1668 Si
+1669 Si
+1670 Si
+1671 Si
+1672 Si
+1673 Si
+1674 Si
+1675 Si
+1676 Si
+1677 Si
+1678 Si
+1679 Si
+1680 Si
+1681 Si
+1682 Si
+1683 Si
+1684 Si
+1685 Si
+1686 Si
+1687 Si
+1688 Si
+1689 Si
+1690 Si
+1691 Si
+1692 Si
+1693 Si
+1694 Si
+1695 Si
+1696 Si
+1697 Si
+1698 Si
+1699 Si
+1700 Si
+1701 Si
+1702 Si
+1703 Si
+1704 Si
+1705 Si
+1706 Si
+1707 Si
+1708 Si
+1709 Si
+1710 Si
+1711 Si
+1712 Si
+1713 Si
+1714 Si
+1715 Si
+1716 Si
+1717 Si
+1718 Si
+1719 Si
+1720 Si
+1721 Si
+1722 Si
+1723 Si
+1724 Si
+1725 Si
+1726 Si
+1727 Si
+1728 Si
+end atom-atomtype
+
+vdwtype LJ
+dihedraltype none
+
+nonbonded
+O
+Sigma 3.30 
+Epsilon 53.0
+atom_type_charge –0.75
+
+nonbonded
+Si
+Sigma 2.3
+Epsilon 22.0
+atom_type_charge 1.5
+
+charge
+1 
+
+charge
+2 
+
+charge
+3 
+
+charge
+4 
+
+charge
+5 
+
+charge
+6 
+
+charge
+7 
+
+charge
+8 
+
+charge
+9 
+
+charge
+10 
+
+charge
+11 
+
+charge
+12 
+
+charge
+13 
+
+charge
+14 
+
+charge
+15 
+
+charge
+16 
+
+charge
+17 
+
+charge
+18 
+
+charge
+19 
+
+charge
+20 
+
+charge
+21 
+
+charge
+22 
+
+charge
+23 
+
+charge
+24 
+
+charge
+25 
+
+charge
+26 
+
+charge
+27 
+
+charge
+28 
+
+charge
+29 
+
+charge
+30 
+
+charge
+31 
+
+charge
+32 
+
+charge
+33 
+
+charge
+34 
+
+charge
+35 
+
+charge
+36 
+
+charge
+37 
+
+charge
+38 
+
+charge
+39 
+
+charge
+40 
+
+charge
+41 
+
+charge
+42 
+
+charge
+43 
+
+charge
+44 
+
+charge
+45 
+
+charge
+46 
+
+charge
+47 
+
+charge
+48 
+
+charge
+49 
+
+charge
+50 
+
+charge
+51 
+
+charge
+52 
+
+charge
+53 
+
+charge
+54 
+
+charge
+55 
+
+charge
+56 
+
+charge
+57 
+
+charge
+58 
+
+charge
+59 
+
+charge
+60 
+
+charge
+61 
+
+charge
+62 
+
+charge
+63 
+
+charge
+64 
+
+charge
+65 
+
+charge
+66 
+
+charge
+67 
+
+charge
+68 
+
+charge
+69 
+
+charge
+70 
+
+charge
+71 
+
+charge
+72 
+
+charge
+73 
+
+charge
+74 
+
+charge
+75 
+
+charge
+76 
+
+charge
+77 
+
+charge
+78 
+
+charge
+79 
+
+charge
+80 
+
+charge
+81 
+
+charge
+82 
+
+charge
+83 
+
+charge
+84 
+
+charge
+85 
+
+charge
+86 
+
+charge
+87 
+
+charge
+88 
+
+charge
+89 
+
+charge
+90 
+
+charge
+91 
+
+charge
+92 
+
+charge
+93 
+
+charge
+94 
+
+charge
+95 
+
+charge
+96 
+
+charge
+97 
+
+charge
+98 
+
+charge
+99 
+
+charge
+100 
+
+charge
+101 
+
+charge
+102 
+
+charge
+103 
+
+charge
+104 
+
+charge
+105 
+
+charge
+106 
+
+charge
+107 
+
+charge
+108 
+
+charge
+109 
+
+charge
+110 
+
+charge
+111 
+
+charge
+112 
+
+charge
+113 
+
+charge
+114 
+
+charge
+115 
+
+charge
+116 
+
+charge
+117 
+
+charge
+118 
+
+charge
+119 
+
+charge
+120 
+
+charge
+121 
+
+charge
+122 
+
+charge
+123 
+
+charge
+124 
+
+charge
+125 
+
+charge
+126 
+
+charge
+127 
+
+charge
+128 
+
+charge
+129 
+
+charge
+130 
+
+charge
+131 
+
+charge
+132 
+
+charge
+133 
+
+charge
+134 
+
+charge
+135 
+
+charge
+136 
+
+charge
+137 
+
+charge
+138 
+
+charge
+139 
+
+charge
+140 
+
+charge
+141 
+
+charge
+142 
+
+charge
+143 
+
+charge
+144 
+
+charge
+145 
+
+charge
+146 
+
+charge
+147 
+
+charge
+148 
+
+charge
+149 
+
+charge
+150 
+
+charge
+151 
+
+charge
+152 
+
+charge
+153 
+
+charge
+154 
+
+charge
+155 
+
+charge
+156 
+
+charge
+157 
+
+charge
+158 
+
+charge
+159 
+
+charge
+160 
+
+charge
+161 
+
+charge
+162 
+
+charge
+163 
+
+charge
+164 
+
+charge
+165 
+
+charge
+166 
+
+charge
+167 
+
+charge
+168 
+
+charge
+169 
+
+charge
+170 
+
+charge
+171 
+
+charge
+172 
+
+charge
+173 
+
+charge
+174 
+
+charge
+175 
+
+charge
+176 
+
+charge
+177 
+
+charge
+178 
+
+charge
+179 
+
+charge
+180 
+
+charge
+181 
+
+charge
+182 
+
+charge
+183 
+
+charge
+184 
+
+charge
+185 
+
+charge
+186 
+
+charge
+187 
+
+charge
+188 
+
+charge
+189 
+
+charge
+190 
+
+charge
+191 
+
+charge
+192 
+
+charge
+193 
+
+charge
+194 
+
+charge
+195 
+
+charge
+196 
+
+charge
+197 
+
+charge
+198 
+
+charge
+199 
+
+charge
+200 
+
+charge
+201 
+
+charge
+202 
+
+charge
+203 
+
+charge
+204 
+
+charge
+205 
+
+charge
+206 
+
+charge
+207 
+
+charge
+208 
+
+charge
+209 
+
+charge
+210 
+
+charge
+211 
+
+charge
+212 
+
+charge
+213 
+
+charge
+214 
+
+charge
+215 
+
+charge
+216 
+
+charge
+217 
+
+charge
+218 
+
+charge
+219 
+
+charge
+220 
+
+charge
+221 
+
+charge
+222 
+
+charge
+223 
+
+charge
+224 
+
+charge
+225 
+
+charge
+226 
+
+charge
+227 
+
+charge
+228 
+
+charge
+229 
+
+charge
+230 
+
+charge
+231 
+
+charge
+232 
+
+charge
+233 
+
+charge
+234 
+
+charge
+235 
+
+charge
+236 
+
+charge
+237 
+
+charge
+238 
+
+charge
+239 
+
+charge
+240 
+
+charge
+241 
+
+charge
+242 
+
+charge
+243 
+
+charge
+244 
+
+charge
+245 
+
+charge
+246 
+
+charge
+247 
+
+charge
+248 
+
+charge
+249 
+
+charge
+250 
+
+charge
+251 
+
+charge
+252 
+
+charge
+253 
+
+charge
+254 
+
+charge
+255 
+
+charge
+256 
+
+charge
+257 
+
+charge
+258 
+
+charge
+259 
+
+charge
+260 
+
+charge
+261 
+
+charge
+262 
+
+charge
+263 
+
+charge
+264 
+
+charge
+265 
+
+charge
+266 
+
+charge
+267 
+
+charge
+268 
+
+charge
+269 
+
+charge
+270 
+
+charge
+271 
+
+charge
+272 
+
+charge
+273 
+
+charge
+274 
+
+charge
+275 
+
+charge
+276 
+
+charge
+277 
+
+charge
+278 
+
+charge
+279 
+
+charge
+280 
+
+charge
+281 
+
+charge
+282 
+
+charge
+283 
+
+charge
+284 
+
+charge
+285 
+
+charge
+286 
+
+charge
+287 
+
+charge
+288 
+
+charge
+289 
+
+charge
+290 
+
+charge
+291 
+
+charge
+292 
+
+charge
+293 
+
+charge
+294 
+
+charge
+295 
+
+charge
+296 
+
+charge
+297 
+
+charge
+298 
+
+charge
+299 
+
+charge
+300 
+
+charge
+301 
+
+charge
+302 
+
+charge
+303 
+
+charge
+304 
+
+charge
+305 
+
+charge
+306 
+
+charge
+307 
+
+charge
+308 
+
+charge
+309 
+
+charge
+310 
+
+charge
+311 
+
+charge
+312 
+
+charge
+313 
+
+charge
+314 
+
+charge
+315 
+
+charge
+316 
+
+charge
+317 
+
+charge
+318 
+
+charge
+319 
+
+charge
+320 
+
+charge
+321 
+
+charge
+322 
+
+charge
+323 
+
+charge
+324 
+
+charge
+325 
+
+charge
+326 
+
+charge
+327 
+
+charge
+328 
+
+charge
+329 
+
+charge
+330 
+
+charge
+331 
+
+charge
+332 
+
+charge
+333 
+
+charge
+334 
+
+charge
+335 
+
+charge
+336 
+
+charge
+337 
+
+charge
+338 
+
+charge
+339 
+
+charge
+340 
+
+charge
+341 
+
+charge
+342 
+
+charge
+343 
+
+charge
+344 
+
+charge
+345 
+
+charge
+346 
+
+charge
+347 
+
+charge
+348 
+
+charge
+349 
+
+charge
+350 
+
+charge
+351 
+
+charge
+352 
+
+charge
+353 
+
+charge
+354 
+
+charge
+355 
+
+charge
+356 
+
+charge
+357 
+
+charge
+358 
+
+charge
+359 
+
+charge
+360 
+
+charge
+361 
+
+charge
+362 
+
+charge
+363 
+
+charge
+364 
+
+charge
+365 
+
+charge
+366 
+
+charge
+367 
+
+charge
+368 
+
+charge
+369 
+
+charge
+370 
+
+charge
+371 
+
+charge
+372 
+
+charge
+373 
+
+charge
+374 
+
+charge
+375 
+
+charge
+376 
+
+charge
+377 
+
+charge
+378 
+
+charge
+379 
+
+charge
+380 
+
+charge
+381 
+
+charge
+382 
+
+charge
+383 
+
+charge
+384 
+
+charge
+385 
+
+charge
+386 
+
+charge
+387 
+
+charge
+388 
+
+charge
+389 
+
+charge
+390 
+
+charge
+391 
+
+charge
+392 
+
+charge
+393 
+
+charge
+394 
+
+charge
+395 
+
+charge
+396 
+
+charge
+397 
+
+charge
+398 
+
+charge
+399 
+
+charge
+400 
+
+charge
+401 
+
+charge
+402 
+
+charge
+403 
+
+charge
+404 
+
+charge
+405 
+
+charge
+406 
+
+charge
+407 
+
+charge
+408 
+
+charge
+409 
+
+charge
+410 
+
+charge
+411 
+
+charge
+412 
+
+charge
+413 
+
+charge
+414 
+
+charge
+415 
+
+charge
+416 
+
+charge
+417 
+
+charge
+418 
+
+charge
+419 
+
+charge
+420 
+
+charge
+421 
+
+charge
+422 
+
+charge
+423 
+
+charge
+424 
+
+charge
+425 
+
+charge
+426 
+
+charge
+427 
+
+charge
+428 
+
+charge
+429 
+
+charge
+430 
+
+charge
+431 
+
+charge
+432 
+
+charge
+433 
+
+charge
+434 
+
+charge
+435 
+
+charge
+436 
+
+charge
+437 
+
+charge
+438 
+
+charge
+439 
+
+charge
+440 
+
+charge
+441 
+
+charge
+442 
+
+charge
+443 
+
+charge
+444 
+
+charge
+445 
+
+charge
+446 
+
+charge
+447 
+
+charge
+448 
+
+charge
+449 
+
+charge
+450 
+
+charge
+451 
+
+charge
+452 
+
+charge
+453 
+
+charge
+454 
+
+charge
+455 
+
+charge
+456 
+
+charge
+457 
+
+charge
+458 
+
+charge
+459 
+
+charge
+460 
+
+charge
+461 
+
+charge
+462 
+
+charge
+463 
+
+charge
+464 
+
+charge
+465 
+
+charge
+466 
+
+charge
+467 
+
+charge
+468 
+
+charge
+469 
+
+charge
+470 
+
+charge
+471 
+
+charge
+472 
+
+charge
+473 
+
+charge
+474 
+
+charge
+475 
+
+charge
+476 
+
+charge
+477 
+
+charge
+478 
+
+charge
+479 
+
+charge
+480 
+
+charge
+481 
+
+charge
+482 
+
+charge
+483 
+
+charge
+484 
+
+charge
+485 
+
+charge
+486 
+
+charge
+487 
+
+charge
+488 
+
+charge
+489 
+
+charge
+490 
+
+charge
+491 
+
+charge
+492 
+
+charge
+493 
+
+charge
+494 
+
+charge
+495 
+
+charge
+496 
+
+charge
+497 
+
+charge
+498 
+
+charge
+499 
+
+charge
+500 
+
+charge
+501 
+
+charge
+502 
+
+charge
+503 
+
+charge
+504 
+
+charge
+505 
+
+charge
+506 
+
+charge
+507 
+
+charge
+508 
+
+charge
+509 
+
+charge
+510 
+
+charge
+511 
+
+charge
+512 
+
+charge
+513 
+
+charge
+514 
+
+charge
+515 
+
+charge
+516 
+
+charge
+517 
+
+charge
+518 
+
+charge
+519 
+
+charge
+520 
+
+charge
+521 
+
+charge
+522 
+
+charge
+523 
+
+charge
+524 
+
+charge
+525 
+
+charge
+526 
+
+charge
+527 
+
+charge
+528 
+
+charge
+529 
+
+charge
+530 
+
+charge
+531 
+
+charge
+532 
+
+charge
+533 
+
+charge
+534 
+
+charge
+535 
+
+charge
+536 
+
+charge
+537 
+
+charge
+538 
+
+charge
+539 
+
+charge
+540 
+
+charge
+541 
+
+charge
+542 
+
+charge
+543 
+
+charge
+544 
+
+charge
+545 
+
+charge
+546 
+
+charge
+547 
+
+charge
+548 
+
+charge
+549 
+
+charge
+550 
+
+charge
+551 
+
+charge
+552 
+
+charge
+553 
+
+charge
+554 
+
+charge
+555 
+
+charge
+556 
+
+charge
+557 
+
+charge
+558 
+
+charge
+559 
+
+charge
+560 
+
+charge
+561 
+
+charge
+562 
+
+charge
+563 
+
+charge
+564 
+
+charge
+565 
+
+charge
+566 
+
+charge
+567 
+
+charge
+568 
+
+charge
+569 
+
+charge
+570 
+
+charge
+571 
+
+charge
+572 
+
+charge
+573 
+
+charge
+574 
+
+charge
+575 
+
+charge
+576 
+
+charge
+577 
+
+charge
+578 
+
+charge
+579 
+
+charge
+580 
+
+charge
+581 
+
+charge
+582 
+
+charge
+583 
+
+charge
+584 
+
+charge
+585 
+
+charge
+586 
+
+charge
+587 
+
+charge
+588 
+
+charge
+589 
+
+charge
+590 
+
+charge
+591 
+
+charge
+592 
+
+charge
+593 
+
+charge
+594 
+
+charge
+595 
+
+charge
+596 
+
+charge
+597 
+
+charge
+598 
+
+charge
+599 
+
+charge
+600 
+
+charge
+601 
+
+charge
+602 
+
+charge
+603 
+
+charge
+604 
+
+charge
+605 
+
+charge
+606 
+
+charge
+607 
+
+charge
+608 
+
+charge
+609 
+
+charge
+610 
+
+charge
+611 
+
+charge
+612 
+
+charge
+613 
+
+charge
+614 
+
+charge
+615 
+
+charge
+616 
+
+charge
+617 
+
+charge
+618 
+
+charge
+619 
+
+charge
+620 
+
+charge
+621 
+
+charge
+622 
+
+charge
+623 
+
+charge
+624 
+
+charge
+625 
+
+charge
+626 
+
+charge
+627 
+
+charge
+628 
+
+charge
+629 
+
+charge
+630 
+
+charge
+631 
+
+charge
+632 
+
+charge
+633 
+
+charge
+634 
+
+charge
+635 
+
+charge
+636 
+
+charge
+637 
+
+charge
+638 
+
+charge
+639 
+
+charge
+640 
+
+charge
+641 
+
+charge
+642 
+
+charge
+643 
+
+charge
+644 
+
+charge
+645 
+
+charge
+646 
+
+charge
+647 
+
+charge
+648 
+
+charge
+649 
+
+charge
+650 
+
+charge
+651 
+
+charge
+652 
+
+charge
+653 
+
+charge
+654 
+
+charge
+655 
+
+charge
+656 
+
+charge
+657 
+
+charge
+658 
+
+charge
+659 
+
+charge
+660 
+
+charge
+661 
+
+charge
+662 
+
+charge
+663 
+
+charge
+664 
+
+charge
+665 
+
+charge
+666 
+
+charge
+667 
+
+charge
+668 
+
+charge
+669 
+
+charge
+670 
+
+charge
+671 
+
+charge
+672 
+
+charge
+673 
+
+charge
+674 
+
+charge
+675 
+
+charge
+676 
+
+charge
+677 
+
+charge
+678 
+
+charge
+679 
+
+charge
+680 
+
+charge
+681 
+
+charge
+682 
+
+charge
+683 
+
+charge
+684 
+
+charge
+685 
+
+charge
+686 
+
+charge
+687 
+
+charge
+688 
+
+charge
+689 
+
+charge
+690 
+
+charge
+691 
+
+charge
+692 
+
+charge
+693 
+
+charge
+694 
+
+charge
+695 
+
+charge
+696 
+
+charge
+697 
+
+charge
+698 
+
+charge
+699 
+
+charge
+700 
+
+charge
+701 
+
+charge
+702 
+
+charge
+703 
+
+charge
+704 
+
+charge
+705 
+
+charge
+706 
+
+charge
+707 
+
+charge
+708 
+
+charge
+709 
+
+charge
+710 
+
+charge
+711 
+
+charge
+712 
+
+charge
+713 
+
+charge
+714 
+
+charge
+715 
+
+charge
+716 
+
+charge
+717 
+
+charge
+718 
+
+charge
+719 
+
+charge
+720 
+
+charge
+721 
+
+charge
+722 
+
+charge
+723 
+
+charge
+724 
+
+charge
+725 
+
+charge
+726 
+
+charge
+727 
+
+charge
+728 
+
+charge
+729 
+
+charge
+730 
+
+charge
+731 
+
+charge
+732 
+
+charge
+733 
+
+charge
+734 
+
+charge
+735 
+
+charge
+736 
+
+charge
+737 
+
+charge
+738 
+
+charge
+739 
+
+charge
+740 
+
+charge
+741 
+
+charge
+742 
+
+charge
+743 
+
+charge
+744 
+
+charge
+745 
+
+charge
+746 
+
+charge
+747 
+
+charge
+748 
+
+charge
+749 
+
+charge
+750 
+
+charge
+751 
+
+charge
+752 
+
+charge
+753 
+
+charge
+754 
+
+charge
+755 
+
+charge
+756 
+
+charge
+757 
+
+charge
+758 
+
+charge
+759 
+
+charge
+760 
+
+charge
+761 
+
+charge
+762 
+
+charge
+763 
+
+charge
+764 
+
+charge
+765 
+
+charge
+766 
+
+charge
+767 
+
+charge
+768 
+
+charge
+769 
+
+charge
+770 
+
+charge
+771 
+
+charge
+772 
+
+charge
+773 
+
+charge
+774 
+
+charge
+775 
+
+charge
+776 
+
+charge
+777 
+
+charge
+778 
+
+charge
+779 
+
+charge
+780 
+
+charge
+781 
+
+charge
+782 
+
+charge
+783 
+
+charge
+784 
+
+charge
+785 
+
+charge
+786 
+
+charge
+787 
+
+charge
+788 
+
+charge
+789 
+
+charge
+790 
+
+charge
+791 
+
+charge
+792 
+
+charge
+793 
+
+charge
+794 
+
+charge
+795 
+
+charge
+796 
+
+charge
+797 
+
+charge
+798 
+
+charge
+799 
+
+charge
+800 
+
+charge
+801 
+
+charge
+802 
+
+charge
+803 
+
+charge
+804 
+
+charge
+805 
+
+charge
+806 
+
+charge
+807 
+
+charge
+808 
+
+charge
+809 
+
+charge
+810 
+
+charge
+811 
+
+charge
+812 
+
+charge
+813 
+
+charge
+814 
+
+charge
+815 
+
+charge
+816 
+
+charge
+817 
+
+charge
+818 
+
+charge
+819 
+
+charge
+820 
+
+charge
+821 
+
+charge
+822 
+
+charge
+823 
+
+charge
+824 
+
+charge
+825 
+
+charge
+826 
+
+charge
+827 
+
+charge
+828 
+
+charge
+829 
+
+charge
+830 
+
+charge
+831 
+
+charge
+832 
+
+charge
+833 
+
+charge
+834 
+
+charge
+835 
+
+charge
+836 
+
+charge
+837 
+
+charge
+838 
+
+charge
+839 
+
+charge
+840 
+
+charge
+841 
+
+charge
+842 
+
+charge
+843 
+
+charge
+844 
+
+charge
+845 
+
+charge
+846 
+
+charge
+847 
+
+charge
+848 
+
+charge
+849 
+
+charge
+850 
+
+charge
+851 
+
+charge
+852 
+
+charge
+853 
+
+charge
+854 
+
+charge
+855 
+
+charge
+856 
+
+charge
+857 
+
+charge
+858 
+
+charge
+859 
+
+charge
+860 
+
+charge
+861 
+
+charge
+862 
+
+charge
+863 
+
+charge
+864 
+
+charge
+865 
+
+charge
+866 
+
+charge
+867 
+
+charge
+868 
+
+charge
+869 
+
+charge
+870 
+
+charge
+871 
+
+charge
+872 
+
+charge
+873 
+
+charge
+874 
+
+charge
+875 
+
+charge
+876 
+
+charge
+877 
+
+charge
+878 
+
+charge
+879 
+
+charge
+880 
+
+charge
+881 
+
+charge
+882 
+
+charge
+883 
+
+charge
+884 
+
+charge
+885 
+
+charge
+886 
+
+charge
+887 
+
+charge
+888 
+
+charge
+889 
+
+charge
+890 
+
+charge
+891 
+
+charge
+892 
+
+charge
+893 
+
+charge
+894 
+
+charge
+895 
+
+charge
+896 
+
+charge
+897 
+
+charge
+898 
+
+charge
+899 
+
+charge
+900 
+
+charge
+901 
+
+charge
+902 
+
+charge
+903 
+
+charge
+904 
+
+charge
+905 
+
+charge
+906 
+
+charge
+907 
+
+charge
+908 
+
+charge
+909 
+
+charge
+910 
+
+charge
+911 
+
+charge
+912 
+
+charge
+913 
+
+charge
+914 
+
+charge
+915 
+
+charge
+916 
+
+charge
+917 
+
+charge
+918 
+
+charge
+919 
+
+charge
+920 
+
+charge
+921 
+
+charge
+922 
+
+charge
+923 
+
+charge
+924 
+
+charge
+925 
+
+charge
+926 
+
+charge
+927 
+
+charge
+928 
+
+charge
+929 
+
+charge
+930 
+
+charge
+931 
+
+charge
+932 
+
+charge
+933 
+
+charge
+934 
+
+charge
+935 
+
+charge
+936 
+
+charge
+937 
+
+charge
+938 
+
+charge
+939 
+
+charge
+940 
+
+charge
+941 
+
+charge
+942 
+
+charge
+943 
+
+charge
+944 
+
+charge
+945 
+
+charge
+946 
+
+charge
+947 
+
+charge
+948 
+
+charge
+949 
+
+charge
+950 
+
+charge
+951 
+
+charge
+952 
+
+charge
+953 
+
+charge
+954 
+
+charge
+955 
+
+charge
+956 
+
+charge
+957 
+
+charge
+958 
+
+charge
+959 
+
+charge
+960 
+
+charge
+961 
+
+charge
+962 
+
+charge
+963 
+
+charge
+964 
+
+charge
+965 
+
+charge
+966 
+
+charge
+967 
+
+charge
+968 
+
+charge
+969 
+
+charge
+970 
+
+charge
+971 
+
+charge
+972 
+
+charge
+973 
+
+charge
+974 
+
+charge
+975 
+
+charge
+976 
+
+charge
+977 
+
+charge
+978 
+
+charge
+979 
+
+charge
+980 
+
+charge
+981 
+
+charge
+982 
+
+charge
+983 
+
+charge
+984 
+
+charge
+985 
+
+charge
+986 
+
+charge
+987 
+
+charge
+988 
+
+charge
+989 
+
+charge
+990 
+
+charge
+991 
+
+charge
+992 
+
+charge
+993 
+
+charge
+994 
+
+charge
+995 
+
+charge
+996 
+
+charge
+997 
+
+charge
+998 
+
+charge
+999 
+
+charge
+1000 
+
+charge
+1001 
+
+charge
+1002 
+
+charge
+1003 
+
+charge
+1004 
+
+charge
+1005 
+
+charge
+1006 
+
+charge
+1007 
+
+charge
+1008 
+
+charge
+1009 
+
+charge
+1010 
+
+charge
+1011 
+
+charge
+1012 
+
+charge
+1013 
+
+charge
+1014 
+
+charge
+1015 
+
+charge
+1016 
+
+charge
+1017 
+
+charge
+1018 
+
+charge
+1019 
+
+charge
+1020 
+
+charge
+1021 
+
+charge
+1022 
+
+charge
+1023 
+
+charge
+1024 
+
+charge
+1025 
+
+charge
+1026 
+
+charge
+1027 
+
+charge
+1028 
+
+charge
+1029 
+
+charge
+1030 
+
+charge
+1031 
+
+charge
+1032 
+
+charge
+1033 
+
+charge
+1034 
+
+charge
+1035 
+
+charge
+1036 
+
+charge
+1037 
+
+charge
+1038 
+
+charge
+1039 
+
+charge
+1040 
+
+charge
+1041 
+
+charge
+1042 
+
+charge
+1043 
+
+charge
+1044 
+
+charge
+1045 
+
+charge
+1046 
+
+charge
+1047 
+
+charge
+1048 
+
+charge
+1049 
+
+charge
+1050 
+
+charge
+1051 
+
+charge
+1052 
+
+charge
+1053 
+
+charge
+1054 
+
+charge
+1055 
+
+charge
+1056 
+
+charge
+1057 
+
+charge
+1058 
+
+charge
+1059 
+
+charge
+1060 
+
+charge
+1061 
+
+charge
+1062 
+
+charge
+1063 
+
+charge
+1064 
+
+charge
+1065 
+
+charge
+1066 
+
+charge
+1067 
+
+charge
+1068 
+
+charge
+1069 
+
+charge
+1070 
+
+charge
+1071 
+
+charge
+1072 
+
+charge
+1073 
+
+charge
+1074 
+
+charge
+1075 
+
+charge
+1076 
+
+charge
+1077 
+
+charge
+1078 
+
+charge
+1079 
+
+charge
+1080 
+
+charge
+1081 
+
+charge
+1082 
+
+charge
+1083 
+
+charge
+1084 
+
+charge
+1085 
+
+charge
+1086 
+
+charge
+1087 
+
+charge
+1088 
+
+charge
+1089 
+
+charge
+1090 
+
+charge
+1091 
+
+charge
+1092 
+
+charge
+1093 
+
+charge
+1094 
+
+charge
+1095 
+
+charge
+1096 
+
+charge
+1097 
+
+charge
+1098 
+
+charge
+1099 
+
+charge
+1100 
+
+charge
+1101 
+
+charge
+1102 
+
+charge
+1103 
+
+charge
+1104 
+
+charge
+1105 
+
+charge
+1106 
+
+charge
+1107 
+
+charge
+1108 
+
+charge
+1109 
+
+charge
+1110 
+
+charge
+1111 
+
+charge
+1112 
+
+charge
+1113 
+
+charge
+1114 
+
+charge
+1115 
+
+charge
+1116 
+
+charge
+1117 
+
+charge
+1118 
+
+charge
+1119 
+
+charge
+1120 
+
+charge
+1121 
+
+charge
+1122 
+
+charge
+1123 
+
+charge
+1124 
+
+charge
+1125 
+
+charge
+1126 
+
+charge
+1127 
+
+charge
+1128 
+
+charge
+1129 
+
+charge
+1130 
+
+charge
+1131 
+
+charge
+1132 
+
+charge
+1133 
+
+charge
+1134 
+
+charge
+1135 
+
+charge
+1136 
+
+charge
+1137 
+
+charge
+1138 
+
+charge
+1139 
+
+charge
+1140 
+
+charge
+1141 
+
+charge
+1142 
+
+charge
+1143 
+
+charge
+1144 
+
+charge
+1145 
+
+charge
+1146 
+
+charge
+1147 
+
+charge
+1148 
+
+charge
+1149 
+
+charge
+1150 
+
+charge
+1151 
+
+charge
+1152 
+
+charge
+1153 
+
+charge
+1154 
+
+charge
+1155 
+
+charge
+1156 
+
+charge
+1157 
+
+charge
+1158 
+
+charge
+1159 
+
+charge
+1160 
+
+charge
+1161 
+
+charge
+1162 
+
+charge
+1163 
+
+charge
+1164 
+
+charge
+1165 
+
+charge
+1166 
+
+charge
+1167 
+
+charge
+1168 
+
+charge
+1169 
+
+charge
+1170 
+
+charge
+1171 
+
+charge
+1172 
+
+charge
+1173 
+
+charge
+1174 
+
+charge
+1175 
+
+charge
+1176 
+
+charge
+1177 
+
+charge
+1178 
+
+charge
+1179 
+
+charge
+1180 
+
+charge
+1181 
+
+charge
+1182 
+
+charge
+1183 
+
+charge
+1184 
+
+charge
+1185 
+
+charge
+1186 
+
+charge
+1187 
+
+charge
+1188 
+
+charge
+1189 
+
+charge
+1190 
+
+charge
+1191 
+
+charge
+1192 
+
+charge
+1193 
+
+charge
+1194 
+
+charge
+1195 
+
+charge
+1196 
+
+charge
+1197 
+
+charge
+1198 
+
+charge
+1199 
+
+charge
+1200 
+
+charge
+1201 
+
+charge
+1202 
+
+charge
+1203 
+
+charge
+1204 
+
+charge
+1205 
+
+charge
+1206 
+
+charge
+1207 
+
+charge
+1208 
+
+charge
+1209 
+
+charge
+1210 
+
+charge
+1211 
+
+charge
+1212 
+
+charge
+1213 
+
+charge
+1214 
+
+charge
+1215 
+
+charge
+1216 
+
+charge
+1217 
+
+charge
+1218 
+
+charge
+1219 
+
+charge
+1220 
+
+charge
+1221 
+
+charge
+1222 
+
+charge
+1223 
+
+charge
+1224 
+
+charge
+1225 
+
+charge
+1226 
+
+charge
+1227 
+
+charge
+1228 
+
+charge
+1229 
+
+charge
+1230 
+
+charge
+1231 
+
+charge
+1232 
+
+charge
+1233 
+
+charge
+1234 
+
+charge
+1235 
+
+charge
+1236 
+
+charge
+1237 
+
+charge
+1238 
+
+charge
+1239 
+
+charge
+1240 
+
+charge
+1241 
+
+charge
+1242 
+
+charge
+1243 
+
+charge
+1244 
+
+charge
+1245 
+
+charge
+1246 
+
+charge
+1247 
+
+charge
+1248 
+
+charge
+1249 
+
+charge
+1250 
+
+charge
+1251 
+
+charge
+1252 
+
+charge
+1253 
+
+charge
+1254 
+
+charge
+1255 
+
+charge
+1256 
+
+charge
+1257 
+
+charge
+1258 
+
+charge
+1259 
+
+charge
+1260 
+
+charge
+1261 
+
+charge
+1262 
+
+charge
+1263 
+
+charge
+1264 
+
+charge
+1265 
+
+charge
+1266 
+
+charge
+1267 
+
+charge
+1268 
+
+charge
+1269 
+
+charge
+1270 
+
+charge
+1271 
+
+charge
+1272 
+
+charge
+1273 
+
+charge
+1274 
+
+charge
+1275 
+
+charge
+1276 
+
+charge
+1277 
+
+charge
+1278 
+
+charge
+1279 
+
+charge
+1280 
+
+charge
+1281 
+
+charge
+1282 
+
+charge
+1283 
+
+charge
+1284 
+
+charge
+1285 
+
+charge
+1286 
+
+charge
+1287 
+
+charge
+1288 
+
+charge
+1289 
+
+charge
+1290 
+
+charge
+1291 
+
+charge
+1292 
+
+charge
+1293 
+
+charge
+1294 
+
+charge
+1295 
+
+charge
+1296 
+
+charge
+1297 
+
+charge
+1298 
+
+charge
+1299 
+
+charge
+1300 
+
+charge
+1301 
+
+charge
+1302 
+
+charge
+1303 
+
+charge
+1304 
+
+charge
+1305 
+
+charge
+1306 
+
+charge
+1307 
+
+charge
+1308 
+
+charge
+1309 
+
+charge
+1310 
+
+charge
+1311 
+
+charge
+1312 
+
+charge
+1313 
+
+charge
+1314 
+
+charge
+1315 
+
+charge
+1316 
+
+charge
+1317 
+
+charge
+1318 
+
+charge
+1319 
+
+charge
+1320 
+
+charge
+1321 
+
+charge
+1322 
+
+charge
+1323 
+
+charge
+1324 
+
+charge
+1325 
+
+charge
+1326 
+
+charge
+1327 
+
+charge
+1328 
+
+charge
+1329 
+
+charge
+1330 
+
+charge
+1331 
+
+charge
+1332 
+
+charge
+1333 
+
+charge
+1334 
+
+charge
+1335 
+
+charge
+1336 
+
+charge
+1337 
+
+charge
+1338 
+
+charge
+1339 
+
+charge
+1340 
+
+charge
+1341 
+
+charge
+1342 
+
+charge
+1343 
+
+charge
+1344 
+
+charge
+1345 
+
+charge
+1346 
+
+charge
+1347 
+
+charge
+1348 
+
+charge
+1349 
+
+charge
+1350 
+
+charge
+1351 
+
+charge
+1352 
+
+charge
+1353 
+
+charge
+1354 
+
+charge
+1355 
+
+charge
+1356 
+
+charge
+1357 
+
+charge
+1358 
+
+charge
+1359 
+
+charge
+1360 
+
+charge
+1361 
+
+charge
+1362 
+
+charge
+1363 
+
+charge
+1364 
+
+charge
+1365 
+
+charge
+1366 
+
+charge
+1367 
+
+charge
+1368 
+
+charge
+1369 
+
+charge
+1370 
+
+charge
+1371 
+
+charge
+1372 
+
+charge
+1373 
+
+charge
+1374 
+
+charge
+1375 
+
+charge
+1376 
+
+charge
+1377 
+
+charge
+1378 
+
+charge
+1379 
+
+charge
+1380 
+
+charge
+1381 
+
+charge
+1382 
+
+charge
+1383 
+
+charge
+1384 
+
+charge
+1385 
+
+charge
+1386 
+
+charge
+1387 
+
+charge
+1388 
+
+charge
+1389 
+
+charge
+1390 
+
+charge
+1391 
+
+charge
+1392 
+
+charge
+1393 
+
+charge
+1394 
+
+charge
+1395 
+
+charge
+1396 
+
+charge
+1397 
+
+charge
+1398 
+
+charge
+1399 
+
+charge
+1400 
+
+charge
+1401 
+
+charge
+1402 
+
+charge
+1403 
+
+charge
+1404 
+
+charge
+1405 
+
+charge
+1406 
+
+charge
+1407 
+
+charge
+1408 
+
+charge
+1409 
+
+charge
+1410 
+
+charge
+1411 
+
+charge
+1412 
+
+charge
+1413 
+
+charge
+1414 
+
+charge
+1415 
+
+charge
+1416 
+
+charge
+1417 
+
+charge
+1418 
+
+charge
+1419 
+
+charge
+1420 
+
+charge
+1421 
+
+charge
+1422 
+
+charge
+1423 
+
+charge
+1424 
+
+charge
+1425 
+
+charge
+1426 
+
+charge
+1427 
+
+charge
+1428 
+
+charge
+1429 
+
+charge
+1430 
+
+charge
+1431 
+
+charge
+1432 
+
+charge
+1433 
+
+charge
+1434 
+
+charge
+1435 
+
+charge
+1436 
+
+charge
+1437 
+
+charge
+1438 
+
+charge
+1439 
+
+charge
+1440 
+
+charge
+1441 
+
+charge
+1442 
+
+charge
+1443 
+
+charge
+1444 
+
+charge
+1445 
+
+charge
+1446 
+
+charge
+1447 
+
+charge
+1448 
+
+charge
+1449 
+
+charge
+1450 
+
+charge
+1451 
+
+charge
+1452 
+
+charge
+1453 
+
+charge
+1454 
+
+charge
+1455 
+
+charge
+1456 
+
+charge
+1457 
+
+charge
+1458 
+
+charge
+1459 
+
+charge
+1460 
+
+charge
+1461 
+
+charge
+1462 
+
+charge
+1463 
+
+charge
+1464 
+
+charge
+1465 
+
+charge
+1466 
+
+charge
+1467 
+
+charge
+1468 
+
+charge
+1469 
+
+charge
+1470 
+
+charge
+1471 
+
+charge
+1472 
+
+charge
+1473 
+
+charge
+1474 
+
+charge
+1475 
+
+charge
+1476 
+
+charge
+1477 
+
+charge
+1478 
+
+charge
+1479 
+
+charge
+1480 
+
+charge
+1481 
+
+charge
+1482 
+
+charge
+1483 
+
+charge
+1484 
+
+charge
+1485 
+
+charge
+1486 
+
+charge
+1487 
+
+charge
+1488 
+
+charge
+1489 
+
+charge
+1490 
+
+charge
+1491 
+
+charge
+1492 
+
+charge
+1493 
+
+charge
+1494 
+
+charge
+1495 
+
+charge
+1496 
+
+charge
+1497 
+
+charge
+1498 
+
+charge
+1499 
+
+charge
+1500 
+
+charge
+1501 
+
+charge
+1502 
+
+charge
+1503 
+
+charge
+1504 
+
+charge
+1505 
+
+charge
+1506 
+
+charge
+1507 
+
+charge
+1508 
+
+charge
+1509 
+
+charge
+1510 
+
+charge
+1511 
+
+charge
+1512 
+
+charge
+1513 
+
+charge
+1514 
+
+charge
+1515 
+
+charge
+1516 
+
+charge
+1517 
+
+charge
+1518 
+
+charge
+1519 
+
+charge
+1520 
+
+charge
+1521 
+
+charge
+1522 
+
+charge
+1523 
+
+charge
+1524 
+
+charge
+1525 
+
+charge
+1526 
+
+charge
+1527 
+
+charge
+1528 
+
+charge
+1529 
+
+charge
+1530 
+
+charge
+1531 
+
+charge
+1532 
+
+charge
+1533 
+
+charge
+1534 
+
+charge
+1535 
+
+charge
+1536 
+
+charge
+1537 
+
+charge
+1538 
+
+charge
+1539 
+
+charge
+1540 
+
+charge
+1541 
+
+charge
+1542 
+
+charge
+1543 
+
+charge
+1544 
+
+charge
+1545 
+
+charge
+1546 
+
+charge
+1547 
+
+charge
+1548 
+
+charge
+1549 
+
+charge
+1550 
+
+charge
+1551 
+
+charge
+1552 
+
+charge
+1553 
+
+charge
+1554 
+
+charge
+1555 
+
+charge
+1556 
+
+charge
+1557 
+
+charge
+1558 
+
+charge
+1559 
+
+charge
+1560 
+
+charge
+1561 
+
+charge
+1562 
+
+charge
+1563 
+
+charge
+1564 
+
+charge
+1565 
+
+charge
+1566 
+
+charge
+1567 
+
+charge
+1568 
+
+charge
+1569 
+
+charge
+1570 
+
+charge
+1571 
+
+charge
+1572 
+
+charge
+1573 
+
+charge
+1574 
+
+charge
+1575 
+
+charge
+1576 
+
+charge
+1577 
+
+charge
+1578 
+
+charge
+1579 
+
+charge
+1580 
+
+charge
+1581 
+
+charge
+1582 
+
+charge
+1583 
+
+charge
+1584 
+
+charge
+1585 
+
+charge
+1586 
+
+charge
+1587 
+
+charge
+1588 
+
+charge
+1589 
+
+charge
+1590 
+
+charge
+1591 
+
+charge
+1592 
+
+charge
+1593 
+
+charge
+1594 
+
+charge
+1595 
+
+charge
+1596 
+
+charge
+1597 
+
+charge
+1598 
+
+charge
+1599 
+
+charge
+1600 
+
+charge
+1601 
+
+charge
+1602 
+
+charge
+1603 
+
+charge
+1604 
+
+charge
+1605 
+
+charge
+1606 
+
+charge
+1607 
+
+charge
+1608 
+
+charge
+1609 
+
+charge
+1610 
+
+charge
+1611 
+
+charge
+1612 
+
+charge
+1613 
+
+charge
+1614 
+
+charge
+1615 
+
+charge
+1616 
+
+charge
+1617 
+
+charge
+1618 
+
+charge
+1619 
+
+charge
+1620 
+
+charge
+1621 
+
+charge
+1622 
+
+charge
+1623 
+
+charge
+1624 
+
+charge
+1625 
+
+charge
+1626 
+
+charge
+1627 
+
+charge
+1628 
+
+charge
+1629 
+
+charge
+1630 
+
+charge
+1631 
+
+charge
+1632 
+
+charge
+1633 
+
+charge
+1634 
+
+charge
+1635 
+
+charge
+1636 
+
+charge
+1637 
+
+charge
+1638 
+
+charge
+1639 
+
+charge
+1640 
+
+charge
+1641 
+
+charge
+1642 
+
+charge
+1643 
+
+charge
+1644 
+
+charge
+1645 
+
+charge
+1646 
+
+charge
+1647 
+
+charge
+1648 
+
+charge
+1649 
+
+charge
+1650 
+
+charge
+1651 
+
+charge
+1652 
+
+charge
+1653 
+
+charge
+1654 
+
+charge
+1655 
+
+charge
+1656 
+
+charge
+1657 
+
+charge
+1658 
+
+charge
+1659 
+
+charge
+1660 
+
+charge
+1661 
+
+charge
+1662 
+
+charge
+1663 
+
+charge
+1664 
+
+charge
+1665 
+
+charge
+1666 
+
+charge
+1667 
+
+charge
+1668 
+
+charge
+1669 
+
+charge
+1670 
+
+charge
+1671 
+
+charge
+1672 
+
+charge
+1673 
+
+charge
+1674 
+
+charge
+1675 
+
+charge
+1676 
+
+charge
+1677 
+
+charge
+1678 
+
+charge
+1679 
+
+charge
+1680 
+
+charge
+1681 
+
+charge
+1682 
+
+charge
+1683 
+
+charge
+1684 
+
+charge
+1685 
+
+charge
+1686 
+
+charge
+1687 
+
+charge
+1688 
+
+charge
+1689 
+
+charge
+1690 
+
+charge
+1691 
+
+charge
+1692 
+
+charge
+1693 
+
+charge
+1694 
+
+charge
+1695 
+
+charge
+1696 
+
+charge
+1697 
+
+charge
+1698 
+
+charge
+1699 
+
+charge
+1700 
+
+charge
+1701 
+
+charge
+1702 
+
+charge
+1703 
+
+charge
+1704 
+
+charge
+1705 
+
+charge
+1706 
+
+charge
+1707 
+
+charge
+1708 
+
+charge
+1709 
+
+charge
+1710 
+
+charge
+1711 
+
+charge
+1712 
+
+charge
+1713 
+
+charge
+1714 
+
+charge
+1715 
+
+charge
+1716 
+
+charge
+1717 
+
+charge
+1718 
+
+charge
+1719 
+
+charge
+1720 
+
+charge
+1721 
+
+charge
+1722 
+
+charge
+1723 
+
+charge
+1724 
+
+charge
+1725 
+
+charge
+1726 
+
+charge
+1727 
+
+charge
+1728 
+
+end

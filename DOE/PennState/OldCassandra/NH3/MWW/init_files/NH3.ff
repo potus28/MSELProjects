@@ -1,0 +1,68 @@
+atomtypes
+3
+
+begin atom-atomtype
+1 N
+2 H
+3 H
+4 H
+5 M
+end atom-atomtype
+
+vdwtype LJ
+dihedraltype none
+
+nonbonded
+N
+Sigma 3.42
+Epsilon 185.0
+atom_type_charge 0.0
+
+nonbonded
+H
+Sigma 0.0
+Epsilon 0.0
+atom_type_charge 0.410
+
+nonbonded
+M
+Sigma 0.0
+Epsilon 0.0
+atom_type_charge -1.230
+
+bonds
+N H
+Length 1.0142
+Constant fixed
+
+bonds
+N M
+Length 0.08
+Constant fixed 
+
+angles
+H N H
+Angle 106.68
+Constant fixed
+
+angles
+H N M
+Angle 67.88
+Constant fixed
+
+charge
+1 
+
+charge
+2 
+
+charge
+3 
+
+charge
+4 
+
+charge
+5 
+
+end
