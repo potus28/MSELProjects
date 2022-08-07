@@ -1,3 +1,11 @@
+
+*.kp
+*.kp.*
+*.wfn*
+cp2k.inp
+cp2k.out
+
+
 .ipynb_checkpoints
 Simulations
 simulations
