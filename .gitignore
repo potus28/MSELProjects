@@ -6,7 +6,7 @@ cp2k.inp
 cp2k.out
 
 
-.ipynb_checkpoints
+.ipynb_checkpoints/
 Simulations
 simulations
 simulations_tmc_uc-eos_alpha
