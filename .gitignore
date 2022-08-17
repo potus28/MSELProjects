@@ -5,7 +5,7 @@
 cp2k.inp
 cp2k.out
 
-
+.DS_Store/
 .ipynb_checkpoints/
  NSF/Peter-XCFunctional/.ipynb_checkpoints/
 
