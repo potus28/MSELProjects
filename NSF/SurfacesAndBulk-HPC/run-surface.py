@@ -50,25 +50,24 @@ cwd = os.getcwd()
 metal = sys.argv[1]
 functional = sys.argv[2]
 
-miller_indices = [(0,0,1), (1,0,1), (1,2,1), (1,2,0), (0,0,2)]
+miller = sys.argv[3]
 
-atoms.calc = CP2KCalculator(
-        400, 
-        functional,
-        kpoints=(4,4,4),
-        dipole_correction=False,
-        orbital_transform=False,
-        smearing=True)
+miller_a = int(miller[0])
+miller_b = int(miller[1])
+miller_c = int(miller[2])
+#miller_indices = [(0,0,1), (1,0,1), (1,2,1), (1,2,0), (0,0,2)]
+miller_indices = [(miller_a, miller_b, miller_c)]
 
-db = connect('bulk.db')
+db1 = connect('bulk.db')
+db2 = connect('surface.db')
 
 # Read the metal we want to test
 atoms = read("../../Resources/cif/tmc/"+metal+"_conventional_standard.cif")
-calc = CP2KCalculator( 400, f, kpoints=(4,4,1), dipole_correction=False, orbital_transform=False, smearing=True)
+calc = CP2KCalculator( 400, functional, kpoints=(4,4,1), dipole_correction=False, orbital_transform=False, smearing=True, added_mos=30)
 
 for idx in miller_indices:
     midx_str = str(idx[0]) + str(idx[1]) + str(idx[2])
-    fh = m + "_" + f +"_" + midx_str
+    fh = metal + "_" + functional +"_" + midx_str
 
     start = time.time()
     
@@ -110,4 +109,4 @@ for idx in miller_indices:
     end = time.time()
     elapsed = end - start
 
-    db2.write(unit_surface, miller=str(idx), metal=m, xcfunctional=f, totaltime=elapsed, ce=e_cleavage, re=e_relaxation, se=surface_energy)
+    db2.write(unit_surface, miller=str(idx), metal=metal, xcfunctional=functional, totaltime=elapsed, ce=e_cleavage, re=e_relaxation, se=surface_energy)

@@ -73,6 +73,10 @@ def MyEOSFitting(atoms, db, fh, metal, functional):
 
 metal = sys.argv[1]
 functional = sys.argv[2]
+
+# Read the metal we want to test
+atoms = read("../../Resources/cif/tmc/"+metal+"_conventional_standard.cif")
+
 atoms.calc = CP2KCalculator(
         400, 
         functional,
@@ -83,6 +87,4 @@ atoms.calc = CP2KCalculator(
 
 db = connect('bulk.db')
 
-# Read the metal we want to test
-atoms = read("../../Resources/cif/tmc/"+metal+"_conventional_standard.cif")
 MyEOSFitting(atoms,db,metal+"_"+functional,metal, functional)
