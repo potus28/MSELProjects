@@ -23,4 +23,4 @@ module load gcc/11.3.0
 module load openmpi/4.0.4
 
 
-python3 AICHE-MD-gas.py pureSi
+python3 AICHE.py
