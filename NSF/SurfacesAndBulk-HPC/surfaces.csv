@@ -1,0 +1,48 @@
+metal               |xcfunctional|miller   |   se
+Alpha-Mo2C_mp-1552  |optB88-vdw  |(0, 0, 1)|0.212
+Alpha-Mo2C_mp-1552  |optB88-vdw  |(1, 0, 1)|0.199
+Alpha-Mo2C_mp-1552  |optB88-vdw  |(1, 2, 0)|0.158
+Alpha-Mo2C_mp-1552  |optB88-vdw  |(0, 0, 2)|0.212
+Alpha-Mo2C_mp-1552  |optB86B-vdw |(0, 0, 1)|0.230
+Alpha-Mo2C_mp-1552  |optB86B-vdw |(1, 0, 1)|0.212
+Alpha-Mo2C_mp-1552  |optB86B-vdw |(1, 2, 0)|0.171
+Alpha-Mo2C_mp-1552  |optB86B-vdw |(0, 0, 2)|0.230
+Alpha-Mo2C_mp-1552  |optPBE-vdw  |(0, 0, 1)|0.206
+Alpha-Mo2C_mp-1552  |optPBE-vdw  |(1, 0, 1)|0.193
+Alpha-Mo2C_mp-1552  |optPBE-vdw  |(1, 2, 0)|0.153
+Alpha-Mo2C_mp-1552  |optPBE-vdw  |(0, 0, 2)|0.206
+Alpha-Mo2C_mp-1552  |rVV10       |(0, 0, 1)|0.209
+Alpha-Mo2C_mp-1552  |rVV10       |(1, 0, 1)|0.196
+Alpha-Mo2C_mp-1552  |rVV10       |(1, 2, 0)|0.156
+Alpha-Mo2C_mp-1552  |rVV10       |(0, 0, 2)|0.209
+Alpha-Mo2C_mp-1552  |PBE+D3      |(0, 0, 1)|0.246
+Alpha-Mo2C_mp-1552  |PBE+D3      |(1, 0, 1)|0.228
+Alpha-Mo2C_mp-1552  |PBE+D3      |(1, 2, 0)|0.188
+Alpha-Mo2C_mp-1552  |PBE+D3      |(0, 0, 2)|0.246
+Beta-Mo2C_mp-1221498|optB88-vdw  |(0, 0, 1)|0.179
+Beta-Mo2C_mp-1221498|optB88-vdw  |(1, 0, 1)|0.123
+Beta-Mo2C_mp-1221498|optB88-vdw  |(1, 2, 1)|0.158
+Beta-Mo2C_mp-1221498|optB88-vdw  |(1, 2, 0)|0.190
+Beta-Mo2C_mp-1221498|optB88-vdw  |(0, 0, 2)|0.179
+Beta-Mo2C_mp-1221498|optB86B-vdw |(0, 0, 1)|0.189
+Beta-Mo2C_mp-1221498|optB86B-vdw |(1, 0, 1)|0.134
+Beta-Mo2C_mp-1221498|optB86B-vdw |(1, 2, 1)|0.171
+Beta-Mo2C_mp-1221498|optB86B-vdw |(1, 2, 0)|0.206
+Beta-Mo2C_mp-1221498|optB86B-vdw |(0, 0, 2)|0.189
+Beta-Mo2C_mp-1221498|optPBE-vdw  |(0, 0, 1)|0.174
+Beta-Mo2C_mp-1221498|optPBE-vdw  |(1, 0, 1)|0.118
+Beta-Mo2C_mp-1221498|optPBE-vdw  |(1, 2, 1)|0.152
+Beta-Mo2C_mp-1221498|optPBE-vdw  |(1, 2, 0)|0.184
+Beta-Mo2C_mp-1221498|optPBE-vdw  |(0, 0, 2)|0.174
+Beta-Mo2C_mp-1221498|rVV10       |(0, 0, 1)|0.180
+Beta-Mo2C_mp-1221498|rVV10       |(1, 0, 1)|0.123
+Beta-Mo2C_mp-1221498|rVV10       |(1, 2, 1)|0.156
+Beta-Mo2C_mp-1221498|rVV10       |(1, 2, 0)|0.184
+Beta-Mo2C_mp-1221498|rVV10       |(0, 0, 2)|0.180
+Beta-Mo2C_mp-1221498|PBE+D3      |(0, 0, 1)|0.207
+Beta-Mo2C_mp-1221498|PBE+D3      |(1, 0, 1)|0.149
+Beta-Mo2C_mp-1221498|PBE+D3      |(1, 2, 1)|0.175
+Beta-Mo2C_mp-1221498|PBE+D3      |(1, 2, 0)|0.207
+Beta-Mo2C_mp-1221498|PBE+D3      |(0, 0, 2)|0.207
+Rows: 45
+Keys: ce, metal, miller, re, se, totaltime, xcfunctional
