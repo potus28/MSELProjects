@@ -1,0 +1,25 @@
+<ForceField>
+  <!--XML units: kJ/mol for energies, nm for lengths, and radians for angles.-->
+  <!--For conversion from K to kJ/mol, we use: 1.38064852E-23*6.022140857E23/1000.-->
+  <AtomTypes>
+      <Type name="TrSM_O_1" class="O" element="O" mass="16.000" def="[O;X1]C" desc="Small CO2 O" doi="https://doi.org/10.1002/aic.690470719"/> --> 
+      <Type name="TrSM_C_1" class="C" element="C" mass="15.0347" def="[C;X2](O)O" desc="Small CO2 C" doi="https://doi.org/10.1002/aic.690470719"/> -->
+      <!-- <Type name="TrSM_O_1" class="sp2(O) O" element="O" mass="16.000" def="[O;X1][C;%TrSM_C_1]" desc="Small CO2 O" doi="https://doi.org/10.1002/aic.690470719"/> --> 
+      <!-- <Type name="TrSM_C_1" class="sp(C) C" element="C" mass="15.0347" def="[C;X2]([O;%TrSM_O_1])[O;%TrSM_O_1]" desc="Small CO2 C" doi="https://doi.org/10.1002/aic.690470719"/> -->
+  </AtomTypes>
+  <HarmonicBondForce>
+    <!--TraPPE Small uses fixed angles. Force constants shown here are arbitrarily large to mimic a rigid molecule, limited to three significant figures.-->
+    <Bond class1="O" class2="C" length="0.143" k="1000000"/>
+  </HarmonicBondForce>
+  <HarmonicAngleForce>
+    <!--TraPPE Small uses fixed angles. Force constants shown here are arbitrarily large to mimic a rigid molecule, limited to three significant figures.-->
+    <Angle class1="O" class2="C" class3="O" angle="3.1415" k="100000"/>
+  </HarmonicAngleForce>
+  <RBTorsionForce>
+    <!--OPLS style torsions have been converted to Ryckaert-Bellemans style.-->
+  </RBTorsionForce>
+  <NonbondedForce coulomb14scale="0.0" lj14scale="0.0">
+      <Atom type="TrSM_O_1" charge="-0.35" sigma="0.305" epsilon="0.6568423290544378"/>
+    <Atom type="TrSM_C_1" charge="0.7" sigma="0.280" epsilon="0.22449041625911167"/>
+  </NonbondedForce>
+</ForceField>
