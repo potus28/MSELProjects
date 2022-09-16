@@ -9,6 +9,9 @@ cp2k.out
 .ipynb_checkpoints/
  NSF/Peter-XCFunctional/.ipynb_checkpoints/
 
+Tutorial/MTD.traj
+Tutorial/UnbiasMD.xyz
+
 Simulations
 simulations
 simulations_tmc_uc-eos_alpha
