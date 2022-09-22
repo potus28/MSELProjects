@@ -11,6 +11,10 @@ cp2k.out
 
 Tutorial/MTD.traj
 Tutorial/UnbiasMD.xyz
+Sandbox/
+
+MC/equation-of-state/methanol*
+MC/equation-of-state/tetralin*
 
 Simulations
 simulations

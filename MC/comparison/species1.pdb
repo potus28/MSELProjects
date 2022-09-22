@@ -1,0 +1,4 @@
+REMARK 1   Created by mosdef_cassandra
+CRYST1   15.000   15.000   15.000  90.00  90.00  90.00 P 1        1
+ATOM      1 Ar   RES A   0       0.000   0.000   0.000  1.00  0.00          Ar  
+CONECT    1
