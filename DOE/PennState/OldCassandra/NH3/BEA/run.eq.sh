@@ -3,7 +3,7 @@
 export OMP_NUM_THREADS=2
 
 mkdir -p simulation
-for t in 300.0; do
+for t in 500.0; do
 	mkdir -p simulation/$t
 	for mu in 50.0 45.0 40.0 35.0 30.0 25.0 20.0 15.0; do
 		mkdir -p simulation/$t/$mu

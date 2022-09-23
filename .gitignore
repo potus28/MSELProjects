@@ -14,7 +14,11 @@ Tutorial/UnbiasMD.xyz
 Sandbox/
 
 MC/equation-of-state/methanol*
+MC/equation-of-state/water*
+MC/equation-of-state/formic_acid*
 MC/equation-of-state/tetralin*
+MC/equation-of-state/cyclohexane*
+MC/equation-of-state/ammonia*
 
 Simulations
 simulations

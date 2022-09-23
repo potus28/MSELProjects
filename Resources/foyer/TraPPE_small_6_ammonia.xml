@@ -1,0 +1,20 @@
+<ForceField>
+<AtomTypes>
+<Type name="TrSM_H_1" class="H" element="H" mass="1.00794" def="[H;X1]N" desc="Trappe Ammonia H" doi="https://doi.org/10.1135/cccc2009540"/>  
+<Type name="TrSM_N_1" class="N" element="N" mass="14.0067" def="[N;X4](_M)H" desc="Trappe Ammonia N" doi="https://doi.org/10.1135/cccc2009540"/>
+<Type name="TrSM_M_1" class="M" element="_M" mass="0.0000" def="[_M;X1]N" desc="Trappe Ammonia M" doi="https://doi.org/10.1135/cccc2009540"/>
+</AtomTypes>
+<HarmonicBondForce>
+<Bond class1="H" class2="N" length="0.10124" k="1000000"/>
+<Bond class1="N" class2="M" length="0.008" k="1000000"/>
+</HarmonicBondForce>
+<HarmonicAngleForce>
+<Angle class1="H" class2="N" class3="H" angle="1.8619172460275508" k="100000"/>
+<Angle class1="H" class2="N" class3="M" angle="1.184729496253751" k="100000"/>
+</HarmonicAngleForce>
+<NonbondedForce coulomb14scale="0.0" lj14scale="0.0">
+<Atom type="TrSM_H_1" charge="0.41" sigma="0.0" epsilon="0.0"/>
+<Atom type="TrSM_N_1" charge="0.0" sigma="0.342" epsilon="1.5381750743679876"/>
+<Atom type="TrSM_M_1" charge="-1.23" sigma="0.0" epsilon="0.0"/>
+</NonbondedForce>
+</ForceField>
